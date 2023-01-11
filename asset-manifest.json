@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/altcoin-website/static/css/main.f286df3b.css",
+    "main.js": "/altcoin-website/static/js/main.99f365cf.js",
+    "static/media/bg.jpg": "/altcoin-website/static/media/bg.4c7ec4b8f81ca5d5c603.jpg",
+    "static/media/coin.png": "/altcoin-website/static/media/coin.769edc3dde85d7670bce.png",
+    "index.html": "/altcoin-website/index.html",
+    "main.f286df3b.css.map": "/altcoin-website/static/css/main.f286df3b.css.map",
+    "main.99f365cf.js.map": "/altcoin-website/static/js/main.99f365cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f286df3b.css",
+    "static/js/main.99f365cf.js"
+  ]
+}
